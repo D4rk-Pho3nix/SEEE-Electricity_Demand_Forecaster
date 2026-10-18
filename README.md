@@ -47,8 +47,6 @@ A machine learning project that forecasts a city's electricity demand 60 minutes
 | Runtime | Google Colab, about 5 minutes on a free CPU runtime |
 | Main dataset | Tetouan city power consumption, 10-minute readings for 2017 |
 
-Innovation in 15 words: leakage-safe next-hour electricity forecasts with surge alerts, using open data, in one click.
-
 ## Problem Statement
 
 Electricity demand rises and falls every day. When it peaks, supply costs more and the grid is under strain. Operators and households usually learn about a peak only after it has started, which leaves little time to respond.
